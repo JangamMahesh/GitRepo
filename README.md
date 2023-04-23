@@ -1,2 +1,4 @@
 # GitRepo
-This is my First Repo Added
+2nd row deleted
+3rd row added
+
