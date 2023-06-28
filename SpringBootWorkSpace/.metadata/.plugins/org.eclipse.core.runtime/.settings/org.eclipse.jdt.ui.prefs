@@ -1,0 +1,13 @@
+Refactoring.savealleditors=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.security.crypto.password.PasswordEncoder"><rhs name\="org.springframework.security.crypto.password.NoOpPasswordEncoder"/><rhs name\="org.springframework.security.crypto.password.LdapShaPasswordEncoder"/></lhs><lhs name\="org.springframework.security.core.userdetails.UserDetails"><rhs name\="org.springframework.security.core.userdetails.User"/></lhs><lhs name\="com.example.demo.user.User"><rhs name\="com.example.demo.user.User"/></lhs><lhs name\="com.example.demo.Exceptions.ExceptionResponse"><rhs name\="com.example.demo.Exceptions.ExceptionResponse"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="com.fasterxml.jackson.databind.ser.BeanPropertyFilter"><rhs name\="com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter"/></lhs><lhs name\="com.fasterxml.jackson.databind.ser.PropertyFilter"><rhs name\="com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter"/></lhs><lhs name\="com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter"><rhs name\="com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter"/></lhs><lhs name\="com.example.demo.bean.LimitConfiguration"><rhs name\="com.example.demo.bean.LimitConfiguration"/></lhs><lhs name\="com.example.demo.ExchangeValue"><rhs name\="com.example.demo.ExchangeValue"/></lhs><lhs name\="com.example.demo.CurrencyConversionBean"><rhs name\="com.example.demo.CurrencyConversionBean"/></lhs><lhs name\="com.example.demo.CurrencyExchange"><rhs name\="com.example.demo.CurrencyExchange"/></lhs><lhs name\="com.example.demo.CurrencyConversion"><rhs name\="com.example.demo.CurrencyConversion"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

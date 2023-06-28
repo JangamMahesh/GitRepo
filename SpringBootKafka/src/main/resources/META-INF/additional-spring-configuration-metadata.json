@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.data.consumer.properties.spring.json.trusted.packages",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.data.consumer.properties.spring.json.trusted.packages'"
+}]}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;docker-demo/target/docker-demo-0.0.1-SNAPSHOT.jar&apos; to &apos;docker-demo.jar&apos;" description="Rename resource &apos;docker-demo-0.0.1-SNAPSHOT.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="target/docker-demo-0.0.1-SNAPSHOT.jar" name="docker-demo.jar" stamp="1650785188856" updateReferences="true"/>
+</session>
